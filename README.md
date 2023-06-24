@@ -1,3 +1,4 @@
 # riverpod_ref_holder
 
-A new Flutter project.
+Small project that shows how to obtain Riverpod's `Ref` reference outside of the widget tree. 
+
